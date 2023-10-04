@@ -194,6 +194,7 @@ p.hello-text{
 .about-img-wrap .about-img {
     position: relative;
     padding-bottom: 56%;
+    min-height: 470px;
 
 }
 
